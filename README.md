@@ -34,7 +34,7 @@ If you want to try it out on your machine:
 
 Want to skip all that and just try it in your browser?
 
-👉 [Click here to launch the app!](https://your-username-band-name-generator.streamlit.app)
+👉 [Click here to launch the app!](https://bandnamegeneratorapp.streamlit.app)
 
 ## 🚀 What's Next?
 
